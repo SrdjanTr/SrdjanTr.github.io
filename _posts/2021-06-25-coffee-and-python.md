@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Coffee & Python
-image: "/posts/coffee_python.jpg"
-tags: [Python, Coffee]
+title: Chocolate & Python
+image: "/posts/chocolate python on jet.png"
+tags: [Python, Chocolate]
 ---
 
 # My first project
 ## is all about
 ### how much
 #### I LOVE
-##### Python & Coffee!
+##### Python & Chocolate!
 
 ---
 
@@ -44,23 +44,23 @@ Here is an **unordered list** showing some things I love about Python
 * For fun
     * Deep Learning
     * Computer Vision
-    * Projects about coffee
+    * Projects about chocolate
 
-Here is an _ordered list_ showing some things I love about coffee
+Here is an _ordered list_ showing some things I love about chocolate
 
-1. The smell
+1. The smell.
     1. Especially in the morning, but also at all times of the day!
-2. The taste
-3. The fact I can run the 100m in approx. 9 seconds after having 4 cups in quick succession
+2. The taste.
+3. The fact I can run the 100m in approx. 9 seconds after having 3 cups in quick succession.
 
-I love Python & Coffee so much, here is that picture from the top of my project AGAIN, but this time, in the BODY of my project!
+I love Python & Chocolate so much, here is that picture from the top of my project AGAIN, but this time, in the BODY of my project!
 
-![alt text](/img/posts/coffee_python.jpg "Coffee & Python - I love them!")
+![alt text]('/img/posts/chocolate python on jet.png' "Chocolate & Python - I love them!")
 
 The above image is just linked to the actual file in my Github, but I could also link to images online, using the URL!
 
-A line break, like this one below - helps me make sense of what I'm reading, especially when I've had so much coffee that my vision goes a little blurry
+A line break, like this one below - helps me make sense of what I'm reading, especially when I've had so much chocolate that my vision goes a little blurry.
 
 ---
 
-I could also add things to my project like links, tables, quotes, and HTML blocks - but I'm starting to get a cracking headache.  Must be coffee time.
+I could also add things to my project like links, tables, quotes, and HTML blocks - but I'm starting to get a cracking headache.  Must be chocolate time.
