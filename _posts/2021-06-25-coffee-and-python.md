@@ -55,7 +55,7 @@ Here is an _ordered list_ showing some things I love about chocolate
 
 I love Python & Chocolate so much, here is that picture from the top of my project AGAIN, but this time, in the BODY of my project!
 
-![alt text]('/img/posts/chocolate python on jet.png' "Chocolate & Python - I love them!")
+![alt text](/img/posts/chocolate python on jet.png "Chocolate & Python - I love them!")
 
 The above image is just linked to the actual file in my Github, but I could also link to images online, using the URL!
 
